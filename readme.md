@@ -139,7 +139,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [HackMD](https://hackmd.io/) - Realtime, Multiplatform Collaborative Markdown note editor.
 - [Heroku apps](https://dashboard.heroku.com/apps)
 - [How stuff works](http://www.howstuffworks.com/)
-- [IFTT](https://ifttt.com/discover) - Find Applets.
+- [IFTTT](https://ifttt.com/discover) - Find Applets.
 - [Instant.io](https://instant.io/) - Torrent Tracker.
 - [Interviewbit](https://www.interviewbit.com/)
 - [Jumpshare](https://jumpshare.com/)
